@@ -3,5 +3,3 @@ What is your favorite file extension?
 .dat
 
 .jpeg
-
-YOLO
