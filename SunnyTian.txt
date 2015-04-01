@@ -1,3 +1,7 @@
 What is a simple question?
 
+<<<<<<< HEAD
 Who is the best rapper? darkhorse
+=======
+that^
+>>>>>>> origin/master
