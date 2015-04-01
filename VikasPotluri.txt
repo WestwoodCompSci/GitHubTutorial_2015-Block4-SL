@@ -2,4 +2,8 @@ What is your password?
 
 VikasPotluri
 
+<<<<<<< HEAD
 ilovedankmemes
+=======
+123
+>>>>>>> origin/master
