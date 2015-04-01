@@ -2,10 +2,5 @@ Do you love me?
 
 YES!
 
-<<<<<<< HEAD
-Quan is love, Quan is life
-
 soundcloud.com/darkhorseatx
-=======
-Quan is love, Quan is life
->>>>>>> origin/master
+
