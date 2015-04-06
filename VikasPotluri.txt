@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 What is your password?
 
 VikasPotluri
@@ -10,3 +11,8 @@ ilovedankmemes
 
 lol vikas is the lame
 99dabsisakiv
+=======
+What is your username?
+>>>>>>> parent of a127b23... Fixed a typo
+============
+>>> NOT TELLING U MY USERNAME!
